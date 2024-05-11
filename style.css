@@ -668,5 +668,9 @@
         width: 60%;
 
       }
+
+        .services-cards .services-card {
+        width: 18rem;
+      }
     
     }
